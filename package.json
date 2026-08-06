@@ -1,5 +1,6 @@
 {
   "name": "m-c-dental-clinic",
+  "type": "module",
   "version": "1.0.0",
   "description": "M C Dental Clinic Website - Premier Dental Care in Davangere since 1994",
   "main": "index.html",
