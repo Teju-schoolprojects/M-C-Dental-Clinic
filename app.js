@@ -211,7 +211,7 @@ const SERVICES_DATA = [
     category: "laser",
     categoryName: "Laser Dentistry",
     title: "Advanced Laser Dentistry & Pain Relief",
-    image: "/services/laser-dentistry.jpg",
+    image: "services/laser-dentistry.jpg",
     icon: "fa-solid fa-wand-magic-sparkles",
     desc: "State-of-the-art dental laser therapy for painless soft tissue procedures, gum treatment, and accelerated healing without stitches or bleeding.",
     highlights: ["Minimal bleeding", "Fast tissue healing", "Pain-free procedures"]
@@ -221,7 +221,7 @@ const SERVICES_DATA = [
     category: "surgery",
     categoryName: "Oral & Maxillofacial Surgery",
     title: "Oral & Maxillofacial Surgery",
-    image: "/services/oral-maxillofacial.jpg",
+    image: "services/oral-maxillofacial.jpg",
     icon: "fa-solid fa-user-doctor",
     desc: "Expert surgical care for complex tooth extractions, impacted wisdom teeth removal, jaw realignment, and facial trauma reconstruction.",
     highlights: ["Impacted wisdom teeth", "Jaw surgery", "30+ years surgical expertise"]
@@ -231,7 +231,7 @@ const SERVICES_DATA = [
     category: "implants",
     categoryName: "Implants & Prosthetics",
     title: "Dental Implantation & Maxillofacial Prosthetics",
-    image: "/services/dental-implants.jpg",
+    image: "services/dental-implants.jpg",
     icon: "fa-solid fa-tooth",
     desc: "Permanent titanium dental implants and custom artificial prosthetics to restore complete natural chewing function and aesthetic appearance.",
     highlights: ["Permanent replacement", "Natural aesthetics", "ISO certified implants"]
@@ -241,7 +241,7 @@ const SERVICES_DATA = [
     category: "restorative",
     categoryName: "Restorative & Root Canal",
     title: "Single-Visit Root Canal Procedures",
-    image: "/services/root-canal.jpg",
+    image: "services/root-canal.jpg",
     icon: "fa-solid fa-syringe",
     desc: "Advanced endodontic therapy using rotary technology to eliminate tooth pain, clear infection, and save your natural tooth seamlessly.",
     highlights: ["Painless procedure", "Rotary endodontics", "Single visit option"]
@@ -251,7 +251,7 @@ const SERVICES_DATA = [
     category: "cosmetic",
     categoryName: "Cosmetic & Aligners",
     title: "Teeth Whitening & Aesthetic Dentistry",
-    image: "/services/teeth-whitening.jpg",
+    image: "services/teeth-whitening.jpg",
     icon: "fa-solid fa-sparkles",
     desc: "Professional LED laser teeth whitening, composite bonding, porcelain veneers, and complete smile makeover procedures.",
     highlights: ["Instant brightness", "Stain removal", "Veneers & bonding"]
@@ -261,7 +261,7 @@ const SERVICES_DATA = [
     category: "cosmetic",
     categoryName: "Cosmetic & Aligners",
     title: "Orthodontics & Invisible Braces",
-    image: "/services/orthodontics.jpg",
+    image: "services/orthodontics.jpg",
     icon: "fa-solid fa-teeth-open",
     desc: "Braces adjustment, ceramic braces, and clear invisible aligners for teenagers and adults to straighten teeth and fix bite misalignment.",
     highlights: ["Invisible aligners", "Ceramic & metal braces", "Custom treatment plan"]
@@ -271,7 +271,7 @@ const SERVICES_DATA = [
     category: "restorative",
     categoryName: "Restorative & Root Canal",
     title: "Ceramic Crowns & Bridges Fixing",
-    image: "/services/crowns-bridges.jpg",
+    image: "services/crowns-bridges.jpg",
     icon: "fa-solid fa-crown",
     desc: "High-strength Zirconia and full ceramic crowns to reinforce damaged teeth and fill missing tooth gaps with seamless shade matching.",
     highlights: ["Zirconia ceramic", "Long-lasting durability", "Precision fit"]
@@ -281,7 +281,7 @@ const SERVICES_DATA = [
     category: "restorative",
     categoryName: "Restorative & Root Canal",
     title: "Complete & Partial Dentures Fixing",
-    image: "/services/dentures.jpg",
+    image: "services/dentures.jpg",
     icon: "fa-solid fa-teeth",
     desc: "Custom-crafted lightweight full and partial dentures designed for maximum comfort, stability, and ease of eating.",
     highlights: ["Flexible dentures", "Custom shade matching", "Elderly patient care"]
@@ -291,7 +291,7 @@ const SERVICES_DATA = [
     category: "laser",
     categoryName: "Laser Dentistry",
     title: "Bleeding Gums & Periodontal Therapy",
-    image: "/services/periodontics.jpg",
+    image: "services/periodontics.jpg",
     icon: "fa-solid fa-heart-pulse",
     desc: "Specialized treatment for swollen bleeding gums, deep ultrasonic scaling, root planing, and periodontitis gum disease control.",
     highlights: ["Ultrasonic scaling", "Gum infection control", "Laser gum contouring"]
@@ -301,7 +301,7 @@ const SERVICES_DATA = [
     category: "diagnostics",
     categoryName: "Diagnostics",
     title: "Digital Dental X-Ray & Diagnostics",
-    image: "/services/dental-xray.jpg",
+    image: "services/dental-xray.jpg",
     icon: "fa-solid fa-x-ray",
     desc: "Low-radiation digital radiography for accurate diagnostic evaluation of tooth roots, bone density, and hidden decay.",
     highlights: ["Instant digital result", "Low radiation", "Precise diagnosis"]
